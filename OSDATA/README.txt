@@ -9,3 +9,4 @@ PC BSOD and bootloop.
 Why does the simple act of creating a folder called OSDATA in the config folder cause the system to crash?
 I suggest you watch this video (where i got the idea to make this virus) explaining this:
 https://youtu.be/G3VZV4rewuo
+WARNING: THE FIX IN THE VIDEO DOESN'T WORK WHEN YOU RUN THIS VIRUS.
